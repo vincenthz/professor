@@ -1,0 +1,7 @@
+*.o
+*.hi
+*.tix
+*.mix
+*.prof
+.stack-work
+dist
